@@ -44,7 +44,7 @@ The application displays a greeting message and an image in the browser.
 2. ![Java Structure](project-class.png)
 3. ![Resources Structure](file-organization/3.png)
 4. ![Controller](HelloController.png)
-5. ![HTML](gretting.png)
+5. ![HTML](gretting.png) 
 
 ---
 
